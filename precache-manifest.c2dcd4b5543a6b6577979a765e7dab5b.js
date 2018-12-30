@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a69406358211f88dcb2a",
+    "revision": "0c0a9f2a4de7d8198994",
     "url": "/contact-list/static/css/main.a2093ee7.chunk.css"
   },
   {
-    "revision": "a69406358211f88dcb2a",
-    "url": "/contact-list/static/js/main.a6940635.chunk.js"
+    "revision": "0c0a9f2a4de7d8198994",
+    "url": "/contact-list/static/js/main.0c0a9f2a.chunk.js"
   },
   {
     "revision": "3e526301ada6d3730aaa",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/contact-list/static/js/runtime~main.377b31ea.js"
   },
   {
-    "revision": "8748b69e71425e7ecd0d34c83150e11f",
+    "revision": "a94d36421520876061405fa585aff4ea",
     "url": "/contact-list/index.html"
   }
 ];
